@@ -488,7 +488,7 @@ WebSocket 및 Redis를 활용한 **초저지연 실시간 입찰 시스템**
 
 **Vision AI 기반 소아암 환아 케어 휴머노이드 로봇**
 
-<img src="https://github.com/Me-in-U/portfolio/blob/master/assets/banner_3rd.png" width="90%" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<img src="https://github.com/user-attachments/assets/87e637d6-271e-4513-89e7-2aad4aae8f23" width="90%" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
 
 <br><br>
 
