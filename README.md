@@ -682,11 +682,9 @@ MediaPipe 기반 **양방향 체조 인터랙션** 및 동작 교정
 
 ---
 
-<br>
-
 <div align="center">
 
-### 🔗 Links
+## 🔗 Links
 
 [![GitHub](https://img.shields.io/badge/GitHub-Me--in--U-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Me-in-U)
 [![Email](https://img.shields.io/badge/Email-contact@ios.kr-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@ios.kr)
